@@ -1,0 +1,32 @@
+*.py[co]
+.ropeproject
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+# PyCharm
+*.idea
+
+# vim
+*.swo
+*.swp

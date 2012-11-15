@@ -1,0 +1,3 @@
+Werkzeug>=0.8.3
+argparse==1.2.1
+pygeoip>=0.2.5
