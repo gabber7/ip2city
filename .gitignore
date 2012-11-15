@@ -30,3 +30,7 @@ pip-log.txt
 # vim
 *.swo
 *.swp
+
+# geoip database files
+*.dat
+*.dat.*
