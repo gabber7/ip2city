@@ -82,7 +82,7 @@ class ip2city(object):
 
 
 def parse_args():
-    parser = ArgumentParser(description='Face detection web service')
+    parser = ArgumentParser(description='IP to city resolving web service')
     parser.add_argument('--hostname', '-H', type=str, default='localhost',
                         help='Hostname to bind service to')
     parser.add_argument('--port', '-p', type=int, default=5000,
